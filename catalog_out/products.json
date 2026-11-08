@@ -1,0 +1,89 @@
+[
+  {
+    "name": "МК110-224.8Д.4Р [М01] комбинированный модуль ввода/вывода дискретных сигналов",
+    "url": "https://www.souz-pribor.ru/product/mk110-8d-4r/",
+    "category_id": 345,
+    "brand": "ОВЕН",
+    "article": "58953",
+    "image_url": "https://www.souz-pribor.ru/upload/iblock/4e8/e2zaz363p275vnb1rrqilm9u0j9sbzez/IMG_7719.jpg",
+    "price": 12993,
+    "article_dup": "58953",
+    "product_id": 63483,
+    "warnings": []
+  },
+  {
+    "name": "ОСВУ-40 \"Нептун\" счетчик воды универсальный",
+    "url": "https://www.souz-pribor.ru/product/osvu/",
+    "category_id": 393,
+    "brand": "Декаст",
+    "article": "75-40-01",
+    "image_url": "https://www.souz-pribor.ru/upload/iblock/966/1.jpg",
+    "price": 22358,
+    "article_dup": "75-40-01",
+    "product_id": null,
+    "warnings": []
+  },
+  {
+    "name": "testo 205 рН-метр с проникающим зондом",
+    "url": "https://www.souz-pribor.ru/product/testo-205/",
+    "category_id": 386,
+    "brand": "Testo",
+    "article": "0563 2051",
+    "image_url": "https://www.souz-pribor.ru/upload/iblock/6fe/6fe93d71132f82bb8a7d7e4cedf5f0e2.jpg",
+    "price": 25867,
+    "article_dup": "0563 2051",
+    "product_id": null,
+    "warnings": []
+  },
+  {
+    "name": "ЭЗ-02 L-1400 электрозапальник газовый",
+    "url": "https://www.souz-pribor.ru/product/ez/",
+    "category_id": 352,
+    "brand": "ПРОМА",
+    "article": "Б12706",
+    "image_url": "https://www.souz-pribor.ru/upload/iblock/5e7/5e75b8485d86cbd4a04f35aef8efe812.jpg",
+    "price": 14152,
+    "article_dup": "Б12706",
+    "product_id": null,
+    "warnings": []
+  },
+  {
+    "name": "ВСХн-25 счетчик холодной воды",
+    "url": "https://www.souz-pribor.ru/product/vskh/",
+    "category_id": 393,
+    "brand": "Тепловодомер",
+    "article": "R110-025-320-B54",
+    "image_url": "https://www.souz-pribor.ru/upload/iblock/19e/VSKH_25.jpg",
+    "price": 16894,
+    "article_dup": "R110-025-320-B54",
+    "product_id": null,
+    "warnings": []
+  },
+  {
+    "name": "МКЭШ 5х0,75 кабель к термопреобразователям сопротивления",
+    "url": "https://www.souz-pribor.ru/product/mkesh/",
+    "category_id": 336,
+    "brand": "Россия",
+    "article": "",
+    "image_url": "https://www.souz-pribor.ru/upload/iblock/efb/n2qt2fdsx4fkkbxlml0uidk2vdlzdtaf/MKESH.png",
+    "price": 276,
+    "article_dup": "",
+    "product_id": 60413,
+    "warnings": [
+      "артикул отсутствует",
+      "артикула нет, единственное число после RUR принято за product_id"
+    ]
+  },
+  {
+    "name": "Декаст 76-25-01 счётчик без фото",
+    "url": "https://www.souz-pribor.ru/product/no-photo/",
+    "category_id": 393,
+    "brand": "Декаст",
+    "article": "76-25-01",
+    "image_url": null,
+    "price": 13293,
+    "article_dup": "76-25-01",
+    "product_id": 70001,
+    "warnings": []
+  }
+]
