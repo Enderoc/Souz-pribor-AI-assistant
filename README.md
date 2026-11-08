@@ -1,1 +1,0 @@
-# Souz-pribor-AI-assistant
